@@ -1,0 +1,16 @@
+{
+  "identity": [
+    {
+      "nama": "Joni Anwar",
+      "usia": "30",
+      "pekerjaan": "Pedagang Sate",
+      "id": 1
+    },
+    {
+      "nama": "Linda",
+      "usia": "55",
+      "pekerjaan": "Pensiunan",
+      "id": 2
+    }
+  ]
+}
